@@ -1,4 +1,4 @@
-body {
+/*body {
 	background-color: #f3ba5b;
 	font-family: 'Source Sans Pro', sans-serif;
 }
@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5 {
 a {
 	color: #021d37;
 }
-
+*/
 /* Anything that needs Genericons */
 #tix-attendees a.tix-field:before {
 	-moz-osx-font-smoothing: grayscale;
@@ -52,7 +52,7 @@ a {
 }
 
 .site-branding {
-	background-image: url('https://2016.raleigh.wordcamp.org/files/2016/04/wordcamp-raleigh-zzz2016.png');
+	background-image: url('https://2016.raleigh.wordcamp.org/files/2016/04/wordcamp-raleigh-2016.png');
 	background-position: left center;
 	background-repeat: no-repeat;
 	background-size: auto 100%;

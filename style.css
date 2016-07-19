@@ -1,4 +1,4 @@
-/*body {
+body {
 	background-color: #f3ba5b;
 	font-family: 'Source Sans Pro', sans-serif;
 }
@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5 {
 a {
 	color: #021d37;
 }
-*/
+
 /* Anything that needs Genericons */
 #tix-attendees a.tix-field:before {
 	-moz-osx-font-smoothing: grayscale;
@@ -33,7 +33,7 @@ a {
 /*
  * Sidebar
  */
- /*
+ 
 .sidebar {
 	color: #f3ba5b;
 }
@@ -78,7 +78,7 @@ a {
 	font-weight: 600;
 	opacity: 1;
 }
-*/
+
 /*
  * The right and left padding's previous value was 7.6923%
  */

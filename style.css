@@ -362,7 +362,7 @@ th, td {
 .wcb_speaker .speaker-avatar,
 .wcorg-session .avatar {
 	float: left;
-	margin-left: 2%;
+	margin-right: 2%;
 }
 
 .wcb_session h2.session-speakers,

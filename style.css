@@ -359,7 +359,8 @@ th, td {
 
 .wcorg-organizer .avatar,
 .wcorg-speaker .avatar,
-.wcb_speaker .speaker-avatar {
+.wcb_speaker .speaker-avatar,
+.wcorg-session .avatar {
 	float: left;
 	margin-left: 2%;
 }

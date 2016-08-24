@@ -360,14 +360,8 @@ th, td {
 .wcorg-organizer .avatar,
 .wcorg-speaker .avatar,
 .wcb_speaker .speaker-avatar {
-	display: none;
 	float: left;
-	margin: 4%;
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100px;
-	height: 100px;
+	margin-left: 2%;
 }
 
 .wcb_session h2.session-speakers,

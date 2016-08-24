@@ -357,6 +357,15 @@ th, td {
 	margin-bottom: 5px;
 }
 
+.wcorg-speaker-description p:first-of-type {
+    margin-top: 20px;
+}
+
+.wcorg-speaker-description p:nth-of-type(2) {
+    clear: left;
+    padding-top: 10px;
+}
+
 .wcorg-organizer .avatar,
 .wcorg-speaker .avatar,
 .wcb_speaker .speaker-avatar,

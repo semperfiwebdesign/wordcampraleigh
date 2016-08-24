@@ -361,7 +361,8 @@ th, td {
 	margin-bottom: 5px;
 }
 
-.wcorg-speaker-description p:first-of-type {
+.wcorg-speaker-description p:first-of-type,
+.wcb_speaker .entry-content p:first-of-type {
     margin-top: 20px;
 }
 
@@ -373,7 +374,8 @@ th, td {
 .wcorg-organizer .avatar,
 .wcorg-speaker .avatar,
 .wcb_speaker .speaker-avatar,
-.wcorg-session .avatar {
+.wcorg-session .avatar,
+.wcb_session .avatar {
 	float: left;
 	margin-right: 2%;
 }

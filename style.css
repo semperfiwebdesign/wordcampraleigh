@@ -563,6 +563,11 @@ th, td {
 .page-id-7 .entry-footer {
 	background-color: transparent;
 }
+.page-id-7 span.wcpt-track-description {
+    display: block;
+    text-transform: capitalize;
+    font-size: 15px;
+}
 
 @media screen and (min-width: 38.75em) {
 	.side-branding {
